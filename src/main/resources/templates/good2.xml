@@ -1,0 +1,42 @@
+<cv24:cv24 xmlns:cv24="http://univ.fr/cv24" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://univ.fr/cv24 cv24.tp1.xsd ">
+
+    <cv24:identite>
+        <genre>Mme</genre>
+        <nom>SMITH</nom>
+        <prenom>Emily</prenom>
+        <tel>0644332211</tel>
+        <mel>e.smith@example.com</mel>
+    </cv24:identite>
+    <cv24:objectif statut="emploi"> software engineering </cv24:objectif>
+
+
+
+    <cv24:competences>
+        <diplome niveau="5">
+            <date>2005-06-15</date>
+            <institut> University of Paris </institut>
+        </diplome>
+        <certif>
+            <datedeb>2014-08-20</datedeb>
+            <titre>Advanced Certification </titre>
+        </certif>
+        <certif>
+            <datedeb>2022-03-10</datedeb>
+            <titre>Yet Another Certification </titre>
+        </certif>
+    </cv24:competences>
+
+    <cv24:prof>
+        <detail>
+            <datedeb>2005-07-01</datedeb>
+            <titre>Senior Software Engineer</titre>
+        </detail>
+    </cv24:prof>
+
+    <cv24:divers>
+        <lv cert="MAT" lang="fr" nivi="12"/>
+
+        <lv cert="TOEIC" lang="en"  nivs="C1"/>
+        <autre comment="Volunteering experience at local NGO." titre="Volunteer Work"/>
+    </cv24:divers>
+</cv24:cv24>
