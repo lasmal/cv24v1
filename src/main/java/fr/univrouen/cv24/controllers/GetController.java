@@ -138,7 +138,7 @@ public class GetController {
 				"<li>" +
 				"<strong> Un CV spécifique en forme XML </strong>" +
 				"<ul>" +
-				"<li>URL: <a href=\"/cv24/xml?id=UnIdDelaListePrecedente\"> /cv24/xml?id=UnIdDelaListePrecedente </a></li>" +
+				"<li>URL: <a href=\"/cv24/xml?id=6640dd09fbb31f7b3cbb93fa\"> /cv24/xml?id=UnIdDelaListePrecedente </a></li>" +
 				"<li>Méthode : GET</li>" +
 				"<li>Affiche le CV dans la base de données en utilisant l'identifiant</li>" +
 				"<li>Format : XML </li>" +
@@ -147,7 +147,7 @@ public class GetController {
 				+"<li>" +
 				"<strong> Un CV spécifique en forme HTML</strong>" +
 				"<ul>" +
-				"<li>URL: <a href=\"/cv24/html?id=UnIdDelaListePrecedente\"> /cv24/html?id=UnIdDelaListePrecedente </a></li>" +
+				"<li>URL: <a href=\"/cv24/html?id=6640dd09fbb31f7b3cbb93fa\"> /cv24/html?id=UnIdDelaListePrecedente </a></li>" +
 				"<li>Méthode : GET</li>" +
 				"<li>Affiche le CV dans la base de données en utilisant l'identifiant</li>" +
 				"<li>Format : HTML </li>" +
